@@ -49,7 +49,7 @@ export const navigation = [
   },
   {
     id: "2",
-    title: "For Creators",
+    title: "Askiton.ai",
     url: "#creators",
   },
   {

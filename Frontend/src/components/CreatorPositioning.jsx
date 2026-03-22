@@ -14,7 +14,7 @@ const CreatorPositioning = () => {
                         viewport={{ once: true }}
                         className="h2 mb-6"
                     >
-                        Built for creators who hate editing.
+                        Built  Askiton.ai who hate editing.
                     </motion.h2>
                     <motion.p
                         initial={{ opacity: 0, y: 20 }}
