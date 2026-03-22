@@ -1,7 +1,7 @@
 // API Configuration and Services
 
 // Get the API base URL from environment variables or use default
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://editly-ai-backend.vercel.app';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://searchoraskbackend.vercel.app';
 
 
 
